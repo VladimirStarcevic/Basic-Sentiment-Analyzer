@@ -31,7 +31,7 @@ The Python script generates a `resulting_data.csv` file with the calculated sent
 
 To explore the relationship between the sentiment of a tweet and its popularity, a scatter plot was generated.
 
-![Sentiment Analysis Chart](assets/sentiment_vs_retweets_chart.png)
+![Sentiment Analysis Chart](assets/sentiment_retweets_scatterplot.png)
 
 ### Conclusion
 
