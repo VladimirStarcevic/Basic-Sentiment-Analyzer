@@ -27,7 +27,7 @@ The Python script generates a `resulting_data.csv` file with the calculated sent
 
 ![Screenshot of Data in Sheets](assets/google_sheets_data_view.png)
 
-### Analysis: Sentiment Score vs. Number of Retweets
+### Analysis: Number of Retweets vs. Net Score
 
 To explore the relationship between the sentiment of a tweet and its popularity, a scatter plot was generated.
 
